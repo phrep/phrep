@@ -28,17 +28,17 @@ Experience in companies such as BRF, Heineken, Valgroup and others, delivering d
 
 **Data & Databases**
 
-* PostgreSQL, MongoDB
-* Vector DB: Qdrant
+* PostgreSQL, MySQL, MongoDB
+* Vector DB: Qdrant, Vectordb
 
 **Cloud & DevOps**
 
-* AWS (ECS, ECR, EC2, S3, Athena, Glue, Bedrock)
+* AWS (ECS, ECR, EC2, S3, Athena, Glue, Bedrock, SageMaker)
 * Docker, CI/CD
 
 **AI / Machine Learning**
 
-* Scikit-learn, LLMs, LangChain, RAG
+* Scikit-learn, LLMs, LangChain, LangGraph, LangSmith, RAG
 * Prompt Engineering, AI integrations
 
 **Analytics**
