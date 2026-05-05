@@ -45,14 +45,19 @@ Experience in companies such as BRF, Heineken, Valgroup and others, delivering d
 
 * Power BI, Data Visualization, Business Metrics
 
----
+## 📌 Highlights
 
-## 📌 Highlight
-
-🔹 **Text-to-SQL with RAG on AWS**
-Natural language → SQL → Query → Insights
+🔹 **Text-to-SQL com RAG na AWS**
+Conversão de linguagem natural em consultas SQL com LLMs + recuperação de contexto (RAG), executando queries e gerando insights automaticamente.
 
 👉 https://github.com/phrep/LLM_TEXT-TO-SQL_AWS_PRF
+
+---
+
+🔹 **Pipeline ETL Distribuído com Airflow e Celery**
+Ingestão de dados via API, processamento paralelo e orquestração de workflows com Airflow, Redis e PostgreSQL em arquitetura escalável.
+
+👉 https://github.com/phrep/Pipeline_ETL_Airflow_API_Schiphol
 
 ---
 
