@@ -11,7 +11,7 @@ Data Engineer with experience in **Data Engineering, Analytics and Data Governan
 Strong background in:
 
 * Data pipelines (ETL/ELT)
-* Cloud architecture (AWS & Azure)
+* Cloud architecture (AWS, GCP, Azure)
 * Generative AI (LLMs, RAG, Text-to-SQL)
 * Data modeling and analytics
 
@@ -34,7 +34,7 @@ Experience in companies such as BRF, Heineken, Valgroup and others, delivering d
 **Cloud & DevOps**
 
 * AWS (ECS, ECR, EC2, S3, Athena, Glue, Bedrock, SageMaker)
-* Docker, CI/CD
+* Docker, CI/CD, Terraform
 
 **AI / Machine Learning**
 
