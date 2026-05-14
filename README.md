@@ -60,6 +60,12 @@ Ingestão de dados via API, processamento paralelo e orquestração de workflows
 👉 https://github.com/phrep/Pipeline_ETL_Airflow_API_Schiphol
 
 ---
+🔹 Pipeline ETL na AWS com Terraform e AWS Glue
+Provisionamento de infraestrutura como código (IaC) utilizando Terraform para criação automatizada de buckets S3, Glue Jobs, Crawlers, Catalog e processamento ETL com PySpark na AWS.
+
+👉 https://github.com/phrep/Terraform_Pipeline_ETL_AWS
+
+---
 
 ## 📫 Contact
 
